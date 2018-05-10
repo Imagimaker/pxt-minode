@@ -14,6 +14,7 @@ typedef enum
   D13 = 13,
   D14 = 14,
   D15 = 15,
+  D16 = 16,
   MN_NC = NC
 }ConnName;
 
